@@ -1,5 +1,8 @@
 import React from 'react';
 import SelectedIndividual from './SelectedIndividula/SelectedIndividual';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faUsers } from '@fortawesome/free-solid-svg-icons'
+import { faMoneyCheckAlt } from '@fortawesome/free-solid-svg-icons'
 import './SelectedUser.css';
 
 const SelectedUser = (props) => {
@@ -12,8 +15,8 @@ const SelectedUser = (props) => {
     return (
         <div>
             <div className="selected-user-summary">
-                <h4>Selected User: {selectedUser.length}</h4>
-                <p>Total Salary/Year: ${totalSalary}</p>
+                <h4><FontAwesomeIcon icon={faUsers} /> Selected User: {selectedUser.length}</h4>
+                <p><FontAwesomeIcon icon={faMoneyCheckAlt} /> Total Salary/Year: ${totalSalary}</p>
                 
             </div>
             <div>
