@@ -1,0 +1,16 @@
+.selected-individual{
+    background-color: palevioletred;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+.selected-individual img{
+    border-radius: 50%;
+    width: 80px;
+}

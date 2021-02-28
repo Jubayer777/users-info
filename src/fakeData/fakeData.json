@@ -1,0 +1,257 @@
+[
+    {
+      "id": 1,
+      "name": "Sakib Mahmud",
+      "username": "Sakib",
+      "email": "sakib@gmail.com",
+      "img": "https://randomuser.me/api/portraits/thumb/men/75.jpg",
+      "address": {
+        "House": "34",
+         "Road": "11",
+        "State": "Dhanmondi",
+        "city": "Dhaka",
+        "zipcode": "1209"
+      },
+      "phone": "01798766547",
+      "website": "navalfirm.org",
+      "salary":3550
+    },
+    {
+      "id": 2,
+      "name": "Pranto Mondol",
+      "username": "Pranto",
+      "email": "pranto@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/39.jpg",
+      "address": {
+        "House": "23",
+         "Road": "07",
+        "State": "Gulshan",
+        "city": "Dhaka",
+        "zipcode": "1213"
+      },
+      "phone": "01976553322",
+      "website": "wildsource.org",
+      "salary":3400
+    },
+    {
+      "id": 3,
+      "name": "Mustofa Kamal",
+      "username": "Mustofa",
+      "email": "mustofa@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/26.jpg",
+      "address": {
+        "House": "12",
+         "Road": "22",
+        "State": "Mirpur",
+        "city": "Dhaka",
+        "zipcode": "1216"
+      },
+      "phone": "01876583321",
+      "website": "zeolarge.org",
+      "salary":2550
+    },
+    {
+      "id": 4,
+      "name": "Utpal Majumdar",
+      "username": "Utpal",
+      "email": "utpal@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/23.jpg",
+      "address": {
+        "House": "02",
+         "Road": "06",
+        "State": "Motijheel",
+        "city": "Dhaka",
+        "zipcode": "1223"
+      },
+      "phone": "01874583321",
+      "website": "medico.org",
+      "salary":3000
+    },
+    {
+      "id": 5,
+      "name": "Shopon Shah",
+      "username": "Shopon",
+      "email": "shopon@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/24.jpg",
+      "address": {
+        "House": "09",
+         "Road": "11",
+        "State": "Savar",
+        "city": "Dhaka",
+        "zipcode": "1343"
+      },
+      "phone": "01873583375",
+      "website": "agrofirm.org",
+      "salary":2350
+    },
+    {
+      "id": 6,
+      "name": "Rana Khan",
+      "username": "Rana",
+      "email": "rana@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/25.jpg",
+      "address": {
+        "House": "15",
+         "Road": "07",
+        "State": "Uttara",
+        "city": "Dhaka",
+        "zipcode": "1230"
+      },
+      "phone": "01678583371",
+      "website": "canteen.org",
+      "salary":1990
+    },
+    {
+      "id": 7,
+      "name": "Tawfiqul Islam",
+      "username": "Tawfiq",
+      "email": "tawfiq@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/30.jpg",
+      "address": {
+        "House": "11",
+         "Road": "03",
+        "State": "Jatrabari",
+        "city": "Dhaka",
+        "zipcode": "1232"
+      },
+      "phone": "01678673371",
+      "website": "freelancer.org",
+      "salary":2100
+    },
+    {
+      "id": 8,
+      "name": "Anik Mondol",
+      "username": "Anik",
+      "email": "Anik@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/31.jpg",
+      "address": {
+        "House": "22",
+         "Road": "21",
+        "State": "Dhamrai",
+        "city": "Dhaka",
+        "zipcode": "1351"
+      },
+      "phone": "01978673393",
+      "website": "exportfirm.org",
+      "salary":3440
+    },
+    {
+      "id": 9,
+      "name": "Khademul Haque Rony",
+      "username": "Rony",
+      "email": "rony@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/32.jpg",
+      "address": {
+        "House": "14",
+         "Road": "18",
+        "State": "Uttara",
+        "city": "Dhaka",
+        "zipcode": "1230"
+      },
+      "phone": "01778873393",
+      "website": "retake.org",
+      "salary":2340
+    },
+    {
+      "id": 10,
+      "name": "Abir Hasan",
+      "username": "Abir",
+      "email": "abir@gmail.com",
+      "img":"https://randomuser.me/api/portraits/thumb/men/33.jpg",
+      "address": {
+        "House": "03",
+         "Road": "12",
+        "State": "Uttara",
+        "city": "Dhaka",
+        "zipcode": "1230"
+      },
+      "phone": "01778873321",
+      "website": "initiative.org",
+      "salary":1550
+    },
+    {
+        "id": 11,
+        "name": "Abdullah Fahim",
+        "username": "fahim",
+        "email": "fahim@gmail.com",
+        "img":"https://randomuser.me/api/portraits/thumb/men/35.jpg",
+        "address": {
+          "House": "22",
+           "Road": "02",
+          "State": "Dhanmondi",
+          "city": "Dhaka",
+          "zipcode": "1209"
+        },
+        "phone": "01778833321",
+        "website": "labib.org",
+        "salary":2410
+      },
+      {
+        "id": 12,
+        "name": "nayeem Ahasan",
+        "username": "Nayeem",
+        "email": "nayeem@gmail.com",
+        "img":"https://randomuser.me/api/portraits/thumb/men/36.jpg",
+        "address": {
+          "House": "05",
+           "Road": "05",
+          "State": "Dhanmondi",
+          "city": "Dhaka",
+          "zipcode": "1209"
+        },
+        "phone": "01878833321",
+        "website": "foodstation.org",
+        "salary":1880
+      },
+      {
+        "id": 13,
+        "name": "Arman Islam",
+        "username": "Arman",
+        "email": "arman@gmail.com",
+        "img":"https://randomuser.me/api/portraits/thumb/men/38.jpg",
+        "address": {
+          "House": "12",
+           "Road": "04",
+          "State": "Dhanmondi",
+          "city": "Dhaka",
+          "zipcode": "1209"
+        },
+        "phone": "01978833321",
+        "website": "labib.org",
+        "salary":2760
+      },
+      {
+        "id": 14,
+        "name": "Jamil Ahmed",
+        "username": "Jamil",
+        "email": "jamil@gmail.com",
+        "img":"https://randomuser.me/api/portraits/thumb/men/40.jpg",
+        "address": {
+          "House": "21",
+           "Road": "06",
+          "State": "Gulshan",
+          "city": "Dhaka",
+          "zipcode": "1212"
+        },
+        "phone": "01756833321",
+        "website": "agrobiz.org",
+        "salary":2290
+      },
+      {
+        "id": 11,
+        "name": "Shazzadul Islam",
+        "username": "Shazzad",
+        "email": "shazzad@gmail.com",
+        "img":"https://randomuser.me/api/portraits/thumb/men/41.jpg",
+        "address": {
+          "House": "13",
+           "Road": "03",
+          "State": "Savar",
+          "city": "Dhaka",
+          "zipcode": "1340"
+        },
+        "phone": "01778831221",
+        "website": "hamim.org",
+        "salary":1790
+      }
+  ]
